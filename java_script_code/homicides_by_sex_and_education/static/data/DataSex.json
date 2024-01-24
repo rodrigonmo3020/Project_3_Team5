@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "65b07549b83ce2fdb03fe5eb"
+  },
+  "Year": 2018,
+  "Total": 36685,
+  "men": 32765,
+  "women": 3752,
+  "not specified": 168
+},
+{
+  "_id": {
+    "$oid": "65b07549b83ce2fdb03fe5ec"
+  },
+  "Year": 2019,
+  "Total": 36661,
+  "men": 32530,
+  "women": 3893,
+  "not specified": 238
+},
+{
+  "_id": {
+    "$oid": "65b07549b83ce2fdb03fe5ed"
+  },
+  "Year": 2020,
+  "Total": 36773,
+  "men": 32336,
+  "women": 3957,
+  "not specified": 480
+},
+{
+  "_id": {
+    "$oid": "65b07549b83ce2fdb03fe5ee"
+  },
+  "Year": 2021,
+  "Total": 35700,
+  "men": 31263,
+  "women": 4002,
+  "not specified": 435
+},
+{
+  "_id": {
+    "$oid": "65b07549b83ce2fdb03fe5ef"
+  },
+  "Year": 2022,
+  "Total": 33287,
+  "men": 28745,
+  "women": 3928,
+  "not specified": 614
+}]
