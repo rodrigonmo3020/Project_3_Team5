@@ -1,0 +1,800 @@
+[{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5143c"
+  },
+  "año": 2018,
+  "edad": " Menores de 1 año",
+  "total_edad": 78
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5143d"
+  },
+  "año": 2018,
+  "edad": " 1-4 años",
+  "total_edad": 104
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5143e"
+  },
+  "año": 2018,
+  "edad": " 5-9 años",
+  "total_edad": 92
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5143f"
+  },
+  "año": 2018,
+  "edad": " 10-14 años",
+  "total_edad": 193
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51440"
+  },
+  "año": 2018,
+  "edad": " 15-19 años",
+  "total_edad": 2562
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51441"
+  },
+  "año": 2018,
+  "edad": " 20-24 años",
+  "total_edad": 5069
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51442"
+  },
+  "año": 2018,
+  "edad": " 25-29 años",
+  "total_edad": 5649
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51443"
+  },
+  "año": 2018,
+  "edad": " 30-34 años",
+  "total_edad": 5058
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51444"
+  },
+  "año": 2018,
+  "edad": " 35-39 años",
+  "total_edad": 4545
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51445"
+  },
+  "año": 2018,
+  "edad": " 40-44 años",
+  "total_edad": 3745
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51446"
+  },
+  "año": 2018,
+  "edad": " 45-49 años",
+  "total_edad": 2686
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51447"
+  },
+  "año": 2018,
+  "edad": " 50-54 años",
+  "total_edad": 1769
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51448"
+  },
+  "año": 2018,
+  "edad": " 55-59 años",
+  "total_edad": 1094
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51449"
+  },
+  "año": 2018,
+  "edad": " 60-64 años",
+  "total_edad": 667
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5144a"
+  },
+  "año": 2018,
+  "edad": " 65-69 años",
+  "total_edad": 418
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5144b"
+  },
+  "año": 2018,
+  "edad": " 70-74 años",
+  "total_edad": 255
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5144c"
+  },
+  "año": 2018,
+  "edad": " 75-79 años",
+  "total_edad": 163
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5144d"
+  },
+  "año": 2018,
+  "edad": " 80-84 años",
+  "total_edad": 87
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5144e"
+  },
+  "año": 2018,
+  "edad": " 85 años y más",
+  "total_edad": 77
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5144f"
+  },
+  "año": 2018,
+  "edad": " No especificado",
+  "total_edad": 2374
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51450"
+  },
+  "año": 2019,
+  "edad": " Menores de 1 año",
+  "total_edad": 72
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51451"
+  },
+  "año": 2019,
+  "edad": " 1-4 años",
+  "total_edad": 103
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51452"
+  },
+  "año": 2019,
+  "edad": " 5-9 años",
+  "total_edad": 83
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51453"
+  },
+  "año": 2019,
+  "edad": " 10-14 años",
+  "total_edad": 203
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51454"
+  },
+  "año": 2019,
+  "edad": " 15-19 años",
+  "total_edad": 2452
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51455"
+  },
+  "año": 2019,
+  "edad": " 20-24 años",
+  "total_edad": 5194
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51456"
+  },
+  "año": 2019,
+  "edad": " 25-29 años",
+  "total_edad": 5956
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51457"
+  },
+  "año": 2019,
+  "edad": " 30-34 años",
+  "total_edad": 5327
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51458"
+  },
+  "año": 2019,
+  "edad": " 35-39 años",
+  "total_edad": 4414
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51459"
+  },
+  "año": 2019,
+  "edad": " 40-44 años",
+  "total_edad": 3693
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5145a"
+  },
+  "año": 2019,
+  "edad": " 45-49 años",
+  "total_edad": 2756
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5145b"
+  },
+  "año": 2019,
+  "edad": " 50-54 años",
+  "total_edad": 1738
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5145c"
+  },
+  "año": 2019,
+  "edad": " 55-59 años",
+  "total_edad": 1120
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5145d"
+  },
+  "año": 2019,
+  "edad": " 60-64 años",
+  "total_edad": 710
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5145e"
+  },
+  "año": 2019,
+  "edad": " 65-69 años",
+  "total_edad": 418
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5145f"
+  },
+  "año": 2019,
+  "edad": " 70-74 años",
+  "total_edad": 269
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51460"
+  },
+  "año": 2019,
+  "edad": " 75-79 años",
+  "total_edad": 159
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51461"
+  },
+  "año": 2019,
+  "edad": " 80-84 años",
+  "total_edad": 96
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51462"
+  },
+  "año": 2019,
+  "edad": " 85 años y más",
+  "total_edad": 67
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51463"
+  },
+  "año": 2019,
+  "edad": " No especificado",
+  "total_edad": 1831
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51464"
+  },
+  "año": 2020,
+  "edad": " Menores de 1 año",
+  "total_edad": 55
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51465"
+  },
+  "año": 2020,
+  "edad": " 1-4 años",
+  "total_edad": 97
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51466"
+  },
+  "año": 2020,
+  "edad": " 5-9 años",
+  "total_edad": 92
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51467"
+  },
+  "año": 2020,
+  "edad": " 10-14 años",
+  "total_edad": 212
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51468"
+  },
+  "año": 2020,
+  "edad": " 15-19 años",
+  "total_edad": 2362
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51469"
+  },
+  "año": 2020,
+  "edad": " 20-24 años",
+  "total_edad": 5083
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5146a"
+  },
+  "año": 2020,
+  "edad": " 25-29 años",
+  "total_edad": 5650
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5146b"
+  },
+  "año": 2020,
+  "edad": " 30-34 años",
+  "total_edad": 4969
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5146c"
+  },
+  "año": 2020,
+  "edad": " 35-39 años",
+  "total_edad": 4244
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5146d"
+  },
+  "año": 2020,
+  "edad": " 40-44 años",
+  "total_edad": 3529
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5146e"
+  },
+  "año": 2020,
+  "edad": " 45-49 años",
+  "total_edad": 2627
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5146f"
+  },
+  "año": 2020,
+  "edad": " 50-54 años",
+  "total_edad": 1754
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51470"
+  },
+  "año": 2020,
+  "edad": " 55-59 años",
+  "total_edad": 1125
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51471"
+  },
+  "año": 2020,
+  "edad": " 60-64 años",
+  "total_edad": 852
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51472"
+  },
+  "año": 2020,
+  "edad": " 65-69 años",
+  "total_edad": 401
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51473"
+  },
+  "año": 2020,
+  "edad": " 70-74 años",
+  "total_edad": 252
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51474"
+  },
+  "año": 2020,
+  "edad": " 75-79 años",
+  "total_edad": 166
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51475"
+  },
+  "año": 2020,
+  "edad": " 80-84 años",
+  "total_edad": 126
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51476"
+  },
+  "año": 2020,
+  "edad": " 85 años y más",
+  "total_edad": 102
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51477"
+  },
+  "año": 2020,
+  "edad": " No especificado",
+  "total_edad": 3075
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51478"
+  },
+  "año": 2021,
+  "edad": " Menores de 1 año",
+  "total_edad": 61
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51479"
+  },
+  "año": 2021,
+  "edad": " 1-4 años",
+  "total_edad": 73
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5147a"
+  },
+  "año": 2021,
+  "edad": " 5-9 años",
+  "total_edad": 89
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5147b"
+  },
+  "año": 2021,
+  "edad": " 10-14 años",
+  "total_edad": 220
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5147c"
+  },
+  "año": 2021,
+  "edad": " 15-19 años",
+  "total_edad": 2290
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5147d"
+  },
+  "año": 2021,
+  "edad": " 20-24 años",
+  "total_edad": 4947
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5147e"
+  },
+  "año": 2021,
+  "edad": " 25-29 años",
+  "total_edad": 5358
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5147f"
+  },
+  "año": 2021,
+  "edad": " 30-34 años",
+  "total_edad": 4997
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51480"
+  },
+  "año": 2021,
+  "edad": " 35-39 años",
+  "total_edad": 4262
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51481"
+  },
+  "año": 2021,
+  "edad": " 40-44 años",
+  "total_edad": 3421
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51482"
+  },
+  "año": 2021,
+  "edad": " 45-49 años",
+  "total_edad": 2625
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51483"
+  },
+  "año": 2021,
+  "edad": " 50-54 años",
+  "total_edad": 1752
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51484"
+  },
+  "año": 2021,
+  "edad": " 55-59 años",
+  "total_edad": 1035
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51485"
+  },
+  "año": 2021,
+  "edad": " 60-64 años",
+  "total_edad": 679
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51486"
+  },
+  "año": 2021,
+  "edad": " 65-69 años",
+  "total_edad": 436
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51487"
+  },
+  "año": 2021,
+  "edad": " 70-74 años",
+  "total_edad": 256
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51488"
+  },
+  "año": 2021,
+  "edad": " 75-79 años",
+  "total_edad": 138
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51489"
+  },
+  "año": 2021,
+  "edad": " 80-84 años",
+  "total_edad": 82
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5148a"
+  },
+  "año": 2021,
+  "edad": " 85 años y más",
+  "total_edad": 81
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5148b"
+  },
+  "año": 2021,
+  "edad": " No especificado",
+  "total_edad": 2898
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5148c"
+  },
+  "año": 2022,
+  "edad": " Menores de 1 año",
+  "total_edad": 64
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5148d"
+  },
+  "año": 2022,
+  "edad": " 1-4 años",
+  "total_edad": 71
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5148e"
+  },
+  "año": 2022,
+  "edad": " 5-9 años",
+  "total_edad": 78
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5148f"
+  },
+  "año": 2022,
+  "edad": " 10-14 años",
+  "total_edad": 199
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51490"
+  },
+  "año": 2022,
+  "edad": " 15-19 años",
+  "total_edad": 2274
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51491"
+  },
+  "año": 2022,
+  "edad": " 20-24 años",
+  "total_edad": 4259
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51492"
+  },
+  "año": 2022,
+  "edad": " 25-29 años",
+  "total_edad": 4912
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51493"
+  },
+  "año": 2022,
+  "edad": " 30-34 años",
+  "total_edad": 4583
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51494"
+  },
+  "año": 2022,
+  "edad": " 35-39 años",
+  "total_edad": 3904
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51495"
+  },
+  "año": 2022,
+  "edad": " 40-44 años",
+  "total_edad": 3218
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51496"
+  },
+  "año": 2022,
+  "edad": " 45-49 años",
+  "total_edad": 2467
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51497"
+  },
+  "año": 2022,
+  "edad": " 50-54 años",
+  "total_edad": 1671
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51498"
+  },
+  "año": 2022,
+  "edad": " 55-59 años",
+  "total_edad": 1068
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d51499"
+  },
+  "año": 2022,
+  "edad": " 60-64 años",
+  "total_edad": 651
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5149a"
+  },
+  "año": 2022,
+  "edad": " 65-69 años",
+  "total_edad": 385
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5149b"
+  },
+  "año": 2022,
+  "edad": " 70-74 años",
+  "total_edad": 235
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5149c"
+  },
+  "año": 2022,
+  "edad": " 75-79 años",
+  "total_edad": 163
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5149d"
+  },
+  "año": 2022,
+  "edad": " 80-84 años",
+  "total_edad": 90
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5149e"
+  },
+  "año": 2022,
+  "edad": " 85 años y más",
+  "total_edad": 94
+},
+{
+  "_id": {
+    "$oid": "65a9cae960e1d169d3d5149f"
+  },
+  "año": 2022,
+  "edad": " No especificado",
+  "total_edad": 2901
+}]
