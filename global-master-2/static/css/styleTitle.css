@@ -1,0 +1,48 @@
+#title {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 5em;
+    font-weight: bold;
+    color: darkred;
+  }
+  
+  #subtitle {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 3em;
+    font-weight: bold;
+  }
+  
+  #text {
+    font-family: "Arial", sans-serif;
+    font-size: 1.5em;
+  }
+
+  .col-md-12.jumbotron.text-center {
+    background-color: black;
+    color: white;
+    position: relative; 
+  }
+  
+  .thin-container {
+    position: relative;
+    margin-top: 0px;
+    height: 10px; /* Adjust the height as needed */
+    background:darkred; 
+    background-size: cover;
+    z-index: -1; /* Ensure it's behind the text content */
+  }
+  
+  .col-md-12.jumbotron.text-center,
+  .thin-container {
+    margin: 0;
+    padding: 1;
+  } 
+
+  .col-md-12.jumbotron.text-center,
+  .thin-container {
+  box-sizing: border-box;
+}
+
+  body {
+    margin: 0;
+  }
+  
