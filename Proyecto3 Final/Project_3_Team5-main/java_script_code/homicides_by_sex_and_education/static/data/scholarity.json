@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "65a9e9aa51fe405d92a034ad"
+  },
+  "Year": 2018,
+  "Total": 36685,
+  "Sin escolaridad": 1288,
+  "Preescolar": 88,
+  "Primaria incompleta": 3152,
+  "Primaria completa": 6993,
+  "Secundaria incompleta": 2478,
+  "Secundaria o equivalente": 9502,
+  "Bachillerato o preparatoria incompleto": 1857,
+  "Bachillerato o preparatoria completo": 3752,
+  "Profesional": 2447,
+  "Posgrado": 84
+},
+{
+  "_id": {
+    "$oid": "65a9e9aa51fe405d92a034ae"
+  },
+  "Year": 2019,
+  "Total": 36661,
+  "Sin escolaridad": 1282,
+  "Preescolar": 71,
+  "Primaria incompleta": 3277,
+  "Primaria completa": 7205,
+  "Secundaria incompleta": 2725,
+  "Secundaria o equivalente": 9710,
+  "Bachillerato o preparatoria incompleto": 1981,
+  "Bachillerato o preparatoria completo": 3833,
+  "Profesional": 2470,
+  "Posgrado": 105
+},
+{
+  "_id": {
+    "$oid": "65a9e9aa51fe405d92a034af"
+  },
+  "Year": 2020,
+  "Total": 36773,
+  "Sin escolaridad": 1209,
+  "Preescolar": 81,
+  "Primaria incompleta": 3008,
+  "Primaria completa": 6878,
+  "Secundaria incompleta": 2601,
+  "Secundaria o equivalente": 9532,
+  "Bachillerato o preparatoria incompleto": 1958,
+  "Bachillerato o preparatoria completo": 3649,
+  "Profesional": 2373,
+  "Posgrado": 93
+},
+{
+  "_id": {
+    "$oid": "65a9e9aa51fe405d92a034b0"
+  },
+  "Year": 2021,
+  "Total": 35700,
+  "Sin escolaridad": 1150,
+  "Preescolar": 91,
+  "Primaria incompleta": 3005,
+  "Primaria completa": 6491,
+  "Secundaria incompleta": 2699,
+  "Secundaria o equivalente": 9591,
+  "Bachillerato o preparatoria incompleto": 1816,
+  "Bachillerato o preparatoria completo": 3694,
+  "Profesional": 2273,
+  "Posgrado": 78
+},
+{
+  "_id": {
+    "$oid": "65a9e9aa51fe405d92a034b1"
+  },
+  "Year": 2022,
+  "Total": 33287,
+  "Sin escolaridad": 1068,
+  "Preescolar": 62,
+  "Primaria incompleta": 2635,
+  "Primaria completa": 6088,
+  "Secundaria incompleta": 2390,
+  "Secundaria o equivalente": 9071,
+  "Bachillerato o preparatoria incompleto": 1744,
+  "Bachillerato o preparatoria completo": 3554,
+  "Profesional": 2100,
+  "Posgrado": 78
+}]
